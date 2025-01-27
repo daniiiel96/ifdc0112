@@ -28,5 +28,7 @@ Información de núcleos de procesadores
 |i7|8 nucleos|16 hilos|
 |i9|10 nucleos|20 hilos|
 
-Editar archivo con vim. dos puntos a para añadir información en el documento, guardamos con dos puntos wq, sin guardar es !q
-hacemos un git status del archivo, ponemos el git add archivo, git push archivo.
+Editar archivo con codespace
+vim README.MD :a
+
+
