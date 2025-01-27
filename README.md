@@ -20,7 +20,7 @@ Ahora voy a hacer unas pruebas de **negrita**, *subrayado*
 |02|Eric|apellido 2|
 |03|Alex|apellido 3|
 
-|Procesador|Numero de nucleos|
+|Procesadores intel 10th|Numero de nucleos|
 |-----|-----|
 |i5|6 nucleos|
 |i7|8 nucleos|
