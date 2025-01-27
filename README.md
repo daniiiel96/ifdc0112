@@ -19,3 +19,9 @@ Ahora voy a hacer unas pruebas de **negrita**, *subrayado*
 |01|Pol|apellido 1|
 |02|Eric|apellido 2|
 |03|Alex|apellido 3|
+
+|Procesador|Numero de nucleos|
+|-----|-----|
+|i5|6 nucleos|
+|i7|8 nucleos|
+|i9|10 nucleos|
