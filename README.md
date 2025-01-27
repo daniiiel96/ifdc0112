@@ -20,6 +20,8 @@ Ahora voy a hacer unas pruebas de **negrita**, *subrayado*
 |02|Eric|apellido 2|
 |03|Alex|apellido 3|
 
+Información de núcleos de procesadores
+
 |Procesadores intel 10th|Numero de nucleos|Numero de hilos|
 |:-----:|-----|------|
 |i5|6 nucleos|12 hilos|
