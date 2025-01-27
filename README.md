@@ -20,8 +20,8 @@ Ahora voy a hacer unas pruebas de **negrita**, *subrayado*
 |02|Eric|apellido 2|
 |03|Alex|apellido 3|
 
-|Procesadores intel 10th|Numero de nucleos|
-|-----|-----|
-|i5|6 nucleos|
-|i7|8 nucleos|
-|i9|10 nucleos|
+|Procesadores intel 10th|Numero de nucleos|Numero de hilos|
+|:-----:|-----|------|
+|i5|6 nucleos|12 hilos|
+|i7|8 nucleos|16 hilos|
+|i9|10 nucleos|20 hilos|
