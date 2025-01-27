@@ -14,8 +14,8 @@ return r(0);
 
 Ahora voy a hacer unas pruebas de **negrita**, *subrayado* 
 
-|num|nombre|
-|:---:|-----------:|
-|01|Pol|
-|02|Eric|
-|03|Alex|
+|num|nombre|apellido|
+|---|:-----------:|------:|
+|01|Pol|apellido 1|
+|02|Eric|apellido 2|
+|03|Alex|apellido 3|
