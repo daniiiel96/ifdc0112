@@ -29,6 +29,14 @@ Información de núcleos de procesadores
 |i9|10 nucleos|20 hilos|
 
 Editar archivo con codespace
-vim README.MD :a
+- vim README.MD :a
+- añado contenido
+- guardo contenido :wq o no guardo !q
+- git status
+- git add README.MD
+- git diff
+- git commit
+- git push
+
 
 
