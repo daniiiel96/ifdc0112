@@ -38,5 +38,11 @@ Editar archivo con codespace
 - git commit
 - git push
 
-
+|Generación de RAM |Desempeño|
+|-----|-----|
+|DDR|2.5V y 2.6V, densidad máxima 128MB, 100-200MHz|
+|DDR2|1.8V, densidad máxima 256MB, 533MHz|
+|DDR3|1.5V y 1.65V, densidad máxima 8GB, 1066MHz|
+|DDR4|1.05V y 1.2V, 2133MHz|
+|DDR5|1.2V, 128GB|
 
